@@ -1,0 +1,17 @@
+About the Project:
+This project explores customer purchasing habits and retail transaction data. The main goal is to understand consumer behavior, analyze spending patterns, and evaluate product performance to help retail businesses make informed, data-driven decisions.
+
+What the Dataset Is About:
+The dataset focuses on retail shopping transactions and customer demographics. It includes information such as:
+
+Customer details, including age and demographic profiles.
+
+Purchase specifics, such as item categories (like clothing and accessories), transaction amounts, and shopping preferences.
+
+Customer feedback, ratings, and reviews related to their purchases.
+
+What Was Done in the Project:
+
+Cleaned and prepared the dataset by checking for missing values and duplicate records to ensure data quality and integrity.
+
+Analyzed consumer trends to identify key business insights, such as top-selling product categories and overall spending behavior across the customer base.
